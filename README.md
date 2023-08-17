@@ -1,2 +1,2 @@
-# some-new-thoughts
+# some-excellent-new-thoughts
 Test Repository by Sven Ortel
